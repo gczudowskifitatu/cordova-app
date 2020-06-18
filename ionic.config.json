@@ -1,7 +1,8 @@
 {
   "name": "Cordova App",
-  "type": "custom",
   "integrations": {
     "cordova": {}
-  }
+  },
+  "type": "custom",
+  "id": "874eafea"
 }
